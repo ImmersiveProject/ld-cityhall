@@ -12,7 +12,7 @@ Modified qb-cityhall.
 https://streamable.com/5ib9v6
 
 ## [WIP]
-- Work with qb-target
+- Option to choose qb-target or DrawText
 
 
 
