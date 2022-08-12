@@ -1,7 +1,7 @@
 # ld-cityhall
 Modified qb-cityhall.
 
-- You can change evreything in config.lua
+- You can change everything in config.lua
 
 ## Dependencies
 
