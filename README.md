@@ -7,5 +7,5 @@ Modified qb-cityhall
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
 ## Preview
-[!https://streamable.com/5ib9v6]
+[!](https://streamable.com/5ib9v6)
 
